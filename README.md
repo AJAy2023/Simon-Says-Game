@@ -54,4 +54,4 @@ The Simon Says game is a memory-based game where the player must repeat an incre
 
 1. Clone the repository or download the ZIP file.
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/AJAy2023/Simon-Says-Game.git
